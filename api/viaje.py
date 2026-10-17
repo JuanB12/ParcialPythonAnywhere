@@ -61,7 +61,7 @@ def Update():
     else:
         return "Error :/ "
     
-@ruta_viaje.route("/deletepago/<id>", methods=["DELETE"])
+@ruta_viaje.route("/deleteviaje/<id>", methods=["DELETE"])
 def eliminar(id):
     pago = Viaje.query.get(id)
     db.session.delete(pago)
