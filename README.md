@@ -12,6 +12,8 @@
 
 </div>
 
+> 🎓 **Proyecto universitario**: parcial de *Desarrollo Móvil 2*.
+
 ---
 
 ## 📌 El problema
@@ -19,8 +21,6 @@
 La empresa *Sistema Tecnológico de Innovación* transporta pasajeros puerta a puerta entre ciudades. La solicitud de vehículos y el registro de viajes se hacían a mano, lo que generaba errores en la administración financiera y pérdidas económicas.
 
 **La solución:** una API que centraliza toda la operación (quién viaja, en qué vehículo, por qué ruta y cuánto pagó) para optimizar la recolección y el transporte de pasajeros.
-
-> Proyecto del parcial de *Desarrollo Móvil 2*, desplegado en PythonAnywhere.
 
 ## ✨ Funcionalidades
 
